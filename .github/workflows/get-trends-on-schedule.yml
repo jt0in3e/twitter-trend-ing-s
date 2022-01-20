@@ -17,8 +17,8 @@ jobs:
       - name: Run script
         run: npm start
         env:
-		UKRAINE_WOEID: "23424976"
-		API_KEY: ${{ secrets.API_KEY }}
-		API_SECRET: ${{ secrets.API_SECRET }}
-		ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
-		ACCESS_SECRET: ${{ secrets.ACCESS_SECRET }}
+          UKRAINE_WOEID: "23424976"
+          API_KEY: ${{ secrets.API_KEY }}
+          API_SECRET: ${{ secrets.API_SECRET }}
+          ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+          ACCESS_SECRET: ${{ secrets.ACCESS_SECRET }}
