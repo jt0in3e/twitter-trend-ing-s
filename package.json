@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "twitter-lite": "^1.1.0"
+  },
+  "name": "twtr-trends",
+  "version": "0.1.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "run-dev": "node -r dotenv/config index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "J&J",
+  "license": "MIT",
+  "description": "",
+  "devDependencies": {
+    "dotenv": "^11.0.0"
+  }
+}
