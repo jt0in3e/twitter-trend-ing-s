@@ -9,12 +9,18 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - uses: actions/setup-node@v1
+      - name: checkout this repo
+        uses: actions/checkout@v2
+        
+      - name: setup node.js
+        uses: actions/setup-node@v1
         with:
           node-version: '14'
-      - run: npm install
-      - name: Run script
+          
+      - name: install packages
+        run: npm install
+        
+      - name: Run script itself
         run: npm start
         env:
           UKRAINE_WOEID: "23424976"
@@ -22,3 +28,16 @@ jobs:
           API_SECRET: ${{ secrets.API_SECRET }}
           ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
           ACCESS_SECRET: ${{ secrets.ACCESS_SECRET }}
+
+      - name: commit files
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add -A
+          git commit -m "update data" -a
+
+      - name: push changes
+        uses: ad-m/github-push-action@v0.6.0
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: main
