@@ -1,9 +1,8 @@
 name: Get twitter's trends with node.js script
 
 on:
-  push:
   schedule:
-    - cron: "*/5 * * * *"
+    - cron: "00 8,18 * * *"
 
 jobs:
   build:
