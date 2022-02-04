@@ -19198,5 +19198,705 @@
     },
     "created_at": "2022-01-05T12:00:40Z",
     "as_of": "2022-02-03T18:08:38Z"
+  },
+  {
+    "name": "#нюдсочетверг",
+    "url": "http://twitter.com/search?q=%23%D0%BD%D1%8E%D0%B4%D1%81%D0%BE%D1%87%D0%B5%D1%82%D0%B2%D0%B5%D1%80%D0%B3",
+    "promoted_content": null,
+    "query": "%23%D0%BD%D1%8E%D0%B4%D1%81%D0%BE%D1%87%D0%B5%D1%82%D0%B2%D0%B5%D1%80%D0%B3",
+    "tweet_volume": null,
+    "dateTime": "2022-02-04T08:06:42.286Z",
+    "location": {
+      "name": "Ukraine",
+      "woeid": 23424976
+    },
+    "created_at": "2022-01-05T12:00:40Z",
+    "as_of": "2022-02-04T08:06:42Z"
+  },
+  {
+    "name": "#BLASTPremier",
+    "url": "http://twitter.com/search?q=%23BLASTPremier",
+    "promoted_content": null,
+    "query": "%23BLASTPremier",
+    "tweet_volume": null,
+    "dateTime": "2022-02-04T08:06:42.286Z",
+    "location": {
+      "name": "Ukraine",
+      "woeid": 23424976
+    },
+    "created_at": "2022-01-05T12:00:40Z",
+    "as_of": "2022-02-04T08:06:42Z"
+  },
+  {
+    "name": "Токио",
+    "url": "http://twitter.com/search?q=%D0%A2%D0%BE%D0%BA%D0%B8%D0%BE",
+    "promoted_content": null,
+    "query": "%D0%A2%D0%BE%D0%BA%D0%B8%D0%BE",
+    "tweet_volume": null,
+    "dateTime": "2022-02-04T08:06:42.286Z",
+    "location": {
+      "name": "Ukraine",
+      "woeid": 23424976
+    },
+    "created_at": "2022-01-05T12:00:40Z",
+    "as_of": "2022-02-04T08:06:42Z"
+  },
+  {
+    "name": "#BestMusicVideo",
+    "url": "http://twitter.com/search?q=%23BestMusicVideo",
+    "promoted_content": null,
+    "query": "%23BestMusicVideo",
+    "tweet_volume": 876018,
+    "dateTime": "2022-02-04T08:06:42.286Z",
+    "location": {
+      "name": "Ukraine",
+      "woeid": 23424976
+    },
+    "created_at": "2022-01-05T12:00:40Z",
+    "as_of": "2022-02-04T08:06:42Z"
+  },
+  {
+    "name": "#Butter",
+    "url": "http://twitter.com/search?q=%23Butter",
+    "promoted_content": null,
+    "query": "%23Butter",
+    "tweet_volume": 888228,
+    "dateTime": "2022-02-04T08:06:42.286Z",
+    "location": {
+      "name": "Ukraine",
+      "woeid": 23424976
+    },
+    "created_at": "2022-01-05T12:00:40Z",
+    "as_of": "2022-02-04T08:06:42Z"
+  },
+  {
+    "name": "Беларуси",
+    "url": "http://twitter.com/search?q=%D0%91%D0%B5%D0%BB%D0%B0%D1%80%D1%83%D1%81%D0%B8",
+    "promoted_content": null,
+    "query": "%D0%91%D0%B5%D0%BB%D0%B0%D1%80%D1%83%D1%81%D0%B8",
+    "tweet_volume": null,
+    "dateTime": "2022-02-04T08:06:42.286Z",
+    "location": {
+      "name": "Ukraine",
+      "woeid": 23424976
+    },
+    "created_at": "2022-01-05T12:00:40Z",
+    "as_of": "2022-02-04T08:06:42Z"
+  },
+  {
+    "name": "Cristal",
+    "url": "http://twitter.com/search?q=Cristal",
+    "promoted_content": null,
+    "query": "Cristal",
+    "tweet_volume": null,
+    "dateTime": "2022-02-04T08:06:42.286Z",
+    "location": {
+      "name": "Ukraine",
+      "woeid": 23424976
+    },
+    "created_at": "2022-01-05T12:00:40Z",
+    "as_of": "2022-02-04T08:06:42Z"
+  },
+  {
+    "name": "#словко",
+    "url": "http://twitter.com/search?q=%23%D1%81%D0%BB%D0%BE%D0%B2%D0%BA%D0%BE",
+    "promoted_content": null,
+    "query": "%23%D1%81%D0%BB%D0%BE%D0%B2%D0%BA%D0%BE",
+    "tweet_volume": null,
+    "dateTime": "2022-02-04T08:06:42.286Z",
+    "location": {
+      "name": "Ukraine",
+      "woeid": 23424976
+    },
+    "created_at": "2022-01-05T12:00:40Z",
+    "as_of": "2022-02-04T08:06:42Z"
+  },
+  {
+    "name": "С ДНЁМ РОЖДЕНИЯ",
+    "url": "http://twitter.com/search?q=%22%D0%A1+%D0%94%D0%9D%D0%81%D0%9C+%D0%A0%D0%9E%D0%96%D0%94%D0%95%D0%9D%D0%98%D0%AF%22",
+    "promoted_content": null,
+    "query": "%22%D0%A1+%D0%94%D0%9D%D0%81%D0%9C+%D0%A0%D0%9E%D0%96%D0%94%D0%95%D0%9D%D0%98%D0%AF%22",
+    "tweet_volume": null,
+    "dateTime": "2022-02-04T08:06:42.286Z",
+    "location": {
+      "name": "Ukraine",
+      "woeid": 23424976
+    },
+    "created_at": "2022-01-05T12:00:40Z",
+    "as_of": "2022-02-04T08:06:42Z"
+  },
+  {
+    "name": "Turkey",
+    "url": "http://twitter.com/search?q=Turkey",
+    "promoted_content": null,
+    "query": "Turkey",
+    "tweet_volume": 60984,
+    "dateTime": "2022-02-04T08:06:42.286Z",
+    "location": {
+      "name": "Ukraine",
+      "woeid": 23424976
+    },
+    "created_at": "2022-01-05T12:00:40Z",
+    "as_of": "2022-02-04T08:06:42Z"
+  },
+  {
+    "name": "Russians",
+    "url": "http://twitter.com/search?q=Russians",
+    "promoted_content": null,
+    "query": "Russians",
+    "tweet_volume": 17444,
+    "dateTime": "2022-02-04T08:06:42.286Z",
+    "location": {
+      "name": "Ukraine",
+      "woeid": 23424976
+    },
+    "created_at": "2022-01-05T12:00:40Z",
+    "as_of": "2022-02-04T08:06:42Z"
+  },
+  {
+    "name": "бпла",
+    "url": "http://twitter.com/search?q=%D0%B1%D0%BF%D0%BB%D0%B0",
+    "promoted_content": null,
+    "query": "%D0%B1%D0%BF%D0%BB%D0%B0",
+    "tweet_volume": null,
+    "dateTime": "2022-02-04T08:06:42.286Z",
+    "location": {
+      "name": "Ukraine",
+      "woeid": 23424976
+    },
+    "created_at": "2022-01-05T12:00:40Z",
+    "as_of": "2022-02-04T08:06:42Z"
+  },
+  {
+    "name": "киевстар",
+    "url": "http://twitter.com/search?q=%D0%BA%D0%B8%D0%B5%D0%B2%D1%81%D1%82%D0%B0%D1%80",
+    "promoted_content": null,
+    "query": "%D0%BA%D0%B8%D0%B5%D0%B2%D1%81%D1%82%D0%B0%D1%80",
+    "tweet_volume": null,
+    "dateTime": "2022-02-04T08:06:42.286Z",
+    "location": {
+      "name": "Ukraine",
+      "woeid": 23424976
+    },
+    "created_at": "2022-01-05T12:00:40Z",
+    "as_of": "2022-02-04T08:06:42Z"
+  },
+  {
+    "name": "трухина",
+    "url": "http://twitter.com/search?q=%D1%82%D1%80%D1%83%D1%85%D0%B8%D0%BD%D0%B0",
+    "promoted_content": null,
+    "query": "%D1%82%D1%80%D1%83%D1%85%D0%B8%D0%BD%D0%B0",
+    "tweet_volume": null,
+    "dateTime": "2022-02-04T08:06:42.286Z",
+    "location": {
+      "name": "Ukraine",
+      "woeid": 23424976
+    },
+    "created_at": "2022-01-05T12:00:40Z",
+    "as_of": "2022-02-04T08:06:42Z"
+  },
+  {
+    "name": "NASA",
+    "url": "http://twitter.com/search?q=NASA",
+    "promoted_content": null,
+    "query": "NASA",
+    "tweet_volume": 152386,
+    "dateTime": "2022-02-04T08:06:42.286Z",
+    "location": {
+      "name": "Ukraine",
+      "woeid": 23424976
+    },
+    "created_at": "2022-01-05T12:00:40Z",
+    "as_of": "2022-02-04T08:06:42Z"
+  },
+  {
+    "name": "Игра Wordle",
+    "url": "http://twitter.com/search?q=%22%D0%98%D0%B3%D1%80%D0%B0+Wordle%22",
+    "promoted_content": null,
+    "query": "%22%D0%98%D0%B3%D1%80%D0%B0+Wordle%22",
+    "tweet_volume": null,
+    "dateTime": "2022-02-04T08:06:42.286Z",
+    "location": {
+      "name": "Ukraine",
+      "woeid": 23424976
+    },
+    "created_at": "2022-01-05T12:00:40Z",
+    "as_of": "2022-02-04T08:06:42Z"
+  },
+  {
+    "name": "Black",
+    "url": "http://twitter.com/search?q=Black",
+    "promoted_content": null,
+    "query": "Black",
+    "tweet_volume": 1075913,
+    "dateTime": "2022-02-04T08:06:42.286Z",
+    "location": {
+      "name": "Ukraine",
+      "woeid": 23424976
+    },
+    "created_at": "2022-01-05T12:00:40Z",
+    "as_of": "2022-02-04T08:06:42Z"
+  },
+  {
+    "name": "Первое",
+    "url": "http://twitter.com/search?q=%D0%9F%D0%B5%D1%80%D0%B2%D0%BE%D0%B5",
+    "promoted_content": null,
+    "query": "%D0%9F%D0%B5%D1%80%D0%B2%D0%BE%D0%B5",
+    "tweet_volume": null,
+    "dateTime": "2022-02-04T08:06:42.286Z",
+    "location": {
+      "name": "Ukraine",
+      "woeid": 23424976
+    },
+    "created_at": "2022-01-05T12:00:40Z",
+    "as_of": "2022-02-04T08:06:42Z"
+  },
+  {
+    "name": "Meta",
+    "url": "http://twitter.com/search?q=Meta",
+    "promoted_content": null,
+    "query": "Meta",
+    "tweet_volume": 335396,
+    "dateTime": "2022-02-04T08:06:42.286Z",
+    "location": {
+      "name": "Ukraine",
+      "woeid": 23424976
+    },
+    "created_at": "2022-01-05T12:00:40Z",
+    "as_of": "2022-02-04T08:06:42Z"
+  },
+  {
+    "name": "West",
+    "url": "http://twitter.com/search?q=West",
+    "promoted_content": null,
+    "query": "West",
+    "tweet_volume": 208485,
+    "dateTime": "2022-02-04T08:06:42.286Z",
+    "location": {
+      "name": "Ukraine",
+      "woeid": 23424976
+    },
+    "created_at": "2022-01-05T12:00:40Z",
+    "as_of": "2022-02-04T08:06:42Z"
+  },
+  {
+    "name": "ПОДОЖДИ",
+    "url": "http://twitter.com/search?q=%D0%9F%D0%9E%D0%94%D0%9E%D0%96%D0%94%D0%98",
+    "promoted_content": null,
+    "query": "%D0%9F%D0%9E%D0%94%D0%9E%D0%96%D0%94%D0%98",
+    "tweet_volume": null,
+    "dateTime": "2022-02-04T08:06:42.286Z",
+    "location": {
+      "name": "Ukraine",
+      "woeid": 23424976
+    },
+    "created_at": "2022-01-05T12:00:40Z",
+    "as_of": "2022-02-04T08:06:42Z"
+  },
+  {
+    "name": "Предлагаю",
+    "url": "http://twitter.com/search?q=%D0%9F%D1%80%D0%B5%D0%B4%D0%BB%D0%B0%D0%B3%D0%B0%D1%8E",
+    "promoted_content": null,
+    "query": "%D0%9F%D1%80%D0%B5%D0%B4%D0%BB%D0%B0%D0%B3%D0%B0%D1%8E",
+    "tweet_volume": null,
+    "dateTime": "2022-02-04T08:06:42.286Z",
+    "location": {
+      "name": "Ukraine",
+      "woeid": 23424976
+    },
+    "created_at": "2022-01-05T12:00:40Z",
+    "as_of": "2022-02-04T08:06:42Z"
+  },
+  {
+    "name": "Canada",
+    "url": "http://twitter.com/search?q=Canada",
+    "promoted_content": null,
+    "query": "Canada",
+    "tweet_volume": 346091,
+    "dateTime": "2022-02-04T08:06:42.286Z",
+    "location": {
+      "name": "Ukraine",
+      "woeid": 23424976
+    },
+    "created_at": "2022-01-05T12:00:40Z",
+    "as_of": "2022-02-04T08:06:42Z"
+  },
+  {
+    "name": "Germany",
+    "url": "http://twitter.com/search?q=Germany",
+    "promoted_content": null,
+    "query": "Germany",
+    "tweet_volume": 79640,
+    "dateTime": "2022-02-04T08:06:42.286Z",
+    "location": {
+      "name": "Ukraine",
+      "woeid": 23424976
+    },
+    "created_at": "2022-01-05T12:00:40Z",
+    "as_of": "2022-02-04T08:06:42Z"
+  },
+  {
+    "name": "кадырова",
+    "url": "http://twitter.com/search?q=%D0%BA%D0%B0%D0%B4%D1%8B%D1%80%D0%BE%D0%B2%D0%B0",
+    "promoted_content": null,
+    "query": "%D0%BA%D0%B0%D0%B4%D1%8B%D1%80%D0%BE%D0%B2%D0%B0",
+    "tweet_volume": null,
+    "dateTime": "2022-02-04T08:06:42.286Z",
+    "location": {
+      "name": "Ukraine",
+      "woeid": 23424976
+    },
+    "created_at": "2022-01-05T12:00:40Z",
+    "as_of": "2022-02-04T08:06:42Z"
+  },
+  {
+    "name": "Ukrainian",
+    "url": "http://twitter.com/search?q=Ukrainian",
+    "promoted_content": null,
+    "query": "Ukrainian",
+    "tweet_volume": 29250,
+    "dateTime": "2022-02-04T08:06:42.286Z",
+    "location": {
+      "name": "Ukraine",
+      "woeid": 23424976
+    },
+    "created_at": "2022-01-05T12:00:40Z",
+    "as_of": "2022-02-04T08:06:42Z"
+  },
+  {
+    "name": "США и НАТО",
+    "url": "http://twitter.com/search?q=%22%D0%A1%D0%A8%D0%90+%D0%B8+%D0%9D%D0%90%D0%A2%D0%9E%22",
+    "promoted_content": null,
+    "query": "%22%D0%A1%D0%A8%D0%90+%D0%B8+%D0%9D%D0%90%D0%A2%D0%9E%22",
+    "tweet_volume": null,
+    "dateTime": "2022-02-04T08:06:42.286Z",
+    "location": {
+      "name": "Ukraine",
+      "woeid": 23424976
+    },
+    "created_at": "2022-01-05T12:00:40Z",
+    "as_of": "2022-02-04T08:06:42Z"
+  },
+  {
+    "name": "Eastern Europe",
+    "url": "http://twitter.com/search?q=%22Eastern+Europe%22",
+    "promoted_content": null,
+    "query": "%22Eastern+Europe%22",
+    "tweet_volume": null,
+    "dateTime": "2022-02-04T08:06:42.286Z",
+    "location": {
+      "name": "Ukraine",
+      "woeid": 23424976
+    },
+    "created_at": "2022-01-05T12:00:40Z",
+    "as_of": "2022-02-04T08:06:42Z"
+  },
+  {
+    "name": "Наверное",
+    "url": "http://twitter.com/search?q=%D0%9D%D0%B0%D0%B2%D0%B5%D1%80%D0%BD%D0%BE%D0%B5",
+    "promoted_content": null,
+    "query": "%D0%9D%D0%B0%D0%B2%D0%B5%D1%80%D0%BD%D0%BE%D0%B5",
+    "tweet_volume": null,
+    "dateTime": "2022-02-04T08:06:42.286Z",
+    "location": {
+      "name": "Ukraine",
+      "woeid": 23424976
+    },
+    "created_at": "2022-01-05T12:00:40Z",
+    "as_of": "2022-02-04T08:06:42Z"
+  },
+  {
+    "name": "Belarus",
+    "url": "http://twitter.com/search?q=Belarus",
+    "promoted_content": null,
+    "query": "Belarus",
+    "tweet_volume": 16670,
+    "dateTime": "2022-02-04T08:06:42.286Z",
+    "location": {
+      "name": "Ukraine",
+      "woeid": 23424976
+    },
+    "created_at": "2022-01-05T12:00:40Z",
+    "as_of": "2022-02-04T08:06:42Z"
+  },
+  {
+    "name": "DeFi",
+    "url": "http://twitter.com/search?q=DeFi",
+    "promoted_content": null,
+    "query": "DeFi",
+    "tweet_volume": 193101,
+    "dateTime": "2022-02-04T08:06:42.286Z",
+    "location": {
+      "name": "Ukraine",
+      "woeid": 23424976
+    },
+    "created_at": "2022-01-05T12:00:40Z",
+    "as_of": "2022-02-04T08:06:42Z"
+  },
+  {
+    "name": "Telegram",
+    "url": "http://twitter.com/search?q=Telegram",
+    "promoted_content": null,
+    "query": "Telegram",
+    "tweet_volume": 345001,
+    "dateTime": "2022-02-04T08:06:42.286Z",
+    "location": {
+      "name": "Ukraine",
+      "woeid": 23424976
+    },
+    "created_at": "2022-01-05T12:00:40Z",
+    "as_of": "2022-02-04T08:06:42Z"
+  },
+  {
+    "name": "болгары",
+    "url": "http://twitter.com/search?q=%D0%B1%D0%BE%D0%BB%D0%B3%D0%B0%D1%80%D1%8B",
+    "promoted_content": null,
+    "query": "%D0%B1%D0%BE%D0%BB%D0%B3%D0%B0%D1%80%D1%8B",
+    "tweet_volume": null,
+    "dateTime": "2022-02-04T08:06:42.286Z",
+    "location": {
+      "name": "Ukraine",
+      "woeid": 23424976
+    },
+    "created_at": "2022-01-05T12:00:40Z",
+    "as_of": "2022-02-04T08:06:42Z"
+  },
+  {
+    "name": "Crimea",
+    "url": "http://twitter.com/search?q=Crimea",
+    "promoted_content": null,
+    "query": "Crimea",
+    "tweet_volume": null,
+    "dateTime": "2022-02-04T08:06:42.286Z",
+    "location": {
+      "name": "Ukraine",
+      "woeid": 23424976
+    },
+    "created_at": "2022-01-05T12:00:40Z",
+    "as_of": "2022-02-04T08:06:42Z"
+  },
+  {
+    "name": "Украина",
+    "url": "http://twitter.com/search?q=%D0%A3%D0%BA%D1%80%D0%B0%D0%B8%D0%BD%D0%B0",
+    "promoted_content": null,
+    "query": "%D0%A3%D0%BA%D1%80%D0%B0%D0%B8%D0%BD%D0%B0",
+    "tweet_volume": null,
+    "dateTime": "2022-02-04T08:06:42.286Z",
+    "location": {
+      "name": "Ukraine",
+      "woeid": 23424976
+    },
+    "created_at": "2022-01-05T12:00:40Z",
+    "as_of": "2022-02-04T08:06:42Z"
+  },
+  {
+    "name": "норм",
+    "url": "http://twitter.com/search?q=%D0%BD%D0%BE%D1%80%D0%BC",
+    "promoted_content": null,
+    "query": "%D0%BD%D0%BE%D1%80%D0%BC",
+    "tweet_volume": null,
+    "dateTime": "2022-02-04T08:06:42.286Z",
+    "location": {
+      "name": "Ukraine",
+      "woeid": 23424976
+    },
+    "created_at": "2022-01-05T12:00:40Z",
+    "as_of": "2022-02-04T08:06:42Z"
+  },
+  {
+    "name": "Кличко",
+    "url": "http://twitter.com/search?q=%D0%9A%D0%BB%D0%B8%D1%87%D0%BA%D0%BE",
+    "promoted_content": null,
+    "query": "%D0%9A%D0%BB%D0%B8%D1%87%D0%BA%D0%BE",
+    "tweet_volume": null,
+    "dateTime": "2022-02-04T08:06:42.286Z",
+    "location": {
+      "name": "Ukraine",
+      "woeid": 23424976
+    },
+    "created_at": "2022-01-05T12:00:40Z",
+    "as_of": "2022-02-04T08:06:42Z"
+  },
+  {
+    "name": "Boris Johnson",
+    "url": "http://twitter.com/search?q=%22Boris+Johnson%22",
+    "promoted_content": null,
+    "query": "%22Boris+Johnson%22",
+    "tweet_volume": 149053,
+    "dateTime": "2022-02-04T08:06:42.286Z",
+    "location": {
+      "name": "Ukraine",
+      "woeid": 23424976
+    },
+    "created_at": "2022-01-05T12:00:40Z",
+    "as_of": "2022-02-04T08:06:42Z"
+  },
+  {
+    "name": "Пхпх",
+    "url": "http://twitter.com/search?q=%D0%9F%D1%85%D0%BF%D1%85",
+    "promoted_content": null,
+    "query": "%D0%9F%D1%85%D0%BF%D1%85",
+    "tweet_volume": null,
+    "dateTime": "2022-02-04T08:06:42.286Z",
+    "location": {
+      "name": "Ukraine",
+      "woeid": 23424976
+    },
+    "created_at": "2022-01-05T12:00:40Z",
+    "as_of": "2022-02-04T08:06:42Z"
+  },
+  {
+    "name": "Минские",
+    "url": "http://twitter.com/search?q=%D0%9C%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B5",
+    "promoted_content": null,
+    "query": "%D0%9C%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B5",
+    "tweet_volume": null,
+    "dateTime": "2022-02-04T08:06:42.286Z",
+    "location": {
+      "name": "Ukraine",
+      "woeid": 23424976
+    },
+    "created_at": "2022-01-05T12:00:40Z",
+    "as_of": "2022-02-04T08:06:42Z"
+  },
+  {
+    "name": "Тома",
+    "url": "http://twitter.com/search?q=%D0%A2%D0%BE%D0%BC%D0%B0",
+    "promoted_content": null,
+    "query": "%D0%A2%D0%BE%D0%BC%D0%B0",
+    "tweet_volume": null,
+    "dateTime": "2022-02-04T08:06:42.286Z",
+    "location": {
+      "name": "Ukraine",
+      "woeid": 23424976
+    },
+    "created_at": "2022-01-05T12:00:40Z",
+    "as_of": "2022-02-04T08:06:42Z"
+  },
+  {
+    "name": "Ukraine",
+    "url": "http://twitter.com/search?q=Ukraine",
+    "promoted_content": null,
+    "query": "Ukraine",
+    "tweet_volume": 225187,
+    "dateTime": "2022-02-04T08:06:42.286Z",
+    "location": {
+      "name": "Ukraine",
+      "woeid": 23424976
+    },
+    "created_at": "2022-01-05T12:00:40Z",
+    "as_of": "2022-02-04T08:06:42Z"
+  },
+  {
+    "name": "Насколько",
+    "url": "http://twitter.com/search?q=%D0%9D%D0%B0%D1%81%D0%BA%D0%BE%D0%BB%D1%8C%D0%BA%D0%BE",
+    "promoted_content": null,
+    "query": "%D0%9D%D0%B0%D1%81%D0%BA%D0%BE%D0%BB%D1%8C%D0%BA%D0%BE",
+    "tweet_volume": null,
+    "dateTime": "2022-02-04T08:06:42.286Z",
+    "location": {
+      "name": "Ukraine",
+      "woeid": 23424976
+    },
+    "created_at": "2022-01-05T12:00:40Z",
+    "as_of": "2022-02-04T08:06:42Z"
+  },
+  {
+    "name": "Great Britain",
+    "url": "http://twitter.com/search?q=%22Great+Britain%22",
+    "promoted_content": null,
+    "query": "%22Great+Britain%22",
+    "tweet_volume": null,
+    "dateTime": "2022-02-04T08:06:42.286Z",
+    "location": {
+      "name": "Ukraine",
+      "woeid": 23424976
+    },
+    "created_at": "2022-01-05T12:00:40Z",
+    "as_of": "2022-02-04T08:06:42Z"
+  },
+  {
+    "name": "донецка",
+    "url": "http://twitter.com/search?q=%D0%B4%D0%BE%D0%BD%D0%B5%D1%86%D0%BA%D0%B0",
+    "promoted_content": null,
+    "query": "%D0%B4%D0%BE%D0%BD%D0%B5%D1%86%D0%BA%D0%B0",
+    "tweet_volume": null,
+    "dateTime": "2022-02-04T08:06:42.286Z",
+    "location": {
+      "name": "Ukraine",
+      "woeid": 23424976
+    },
+    "created_at": "2022-01-05T12:00:40Z",
+    "as_of": "2022-02-04T08:06:42Z"
+  },
+  {
+    "name": "Spain",
+    "url": "http://twitter.com/search?q=Spain",
+    "promoted_content": null,
+    "query": "Spain",
+    "tweet_volume": 43876,
+    "dateTime": "2022-02-04T08:06:42.286Z",
+    "location": {
+      "name": "Ukraine",
+      "woeid": 23424976
+    },
+    "created_at": "2022-01-05T12:00:40Z",
+    "as_of": "2022-02-04T08:06:42Z"
+  },
+  {
+    "name": "Прикольно",
+    "url": "http://twitter.com/search?q=%D0%9F%D1%80%D0%B8%D0%BA%D0%BE%D0%BB%D1%8C%D0%BD%D0%BE",
+    "promoted_content": null,
+    "query": "%D0%9F%D1%80%D0%B8%D0%BA%D0%BE%D0%BB%D1%8C%D0%BD%D0%BE",
+    "tweet_volume": null,
+    "dateTime": "2022-02-04T08:06:42.286Z",
+    "location": {
+      "name": "Ukraine",
+      "woeid": 23424976
+    },
+    "created_at": "2022-01-05T12:00:40Z",
+    "as_of": "2022-02-04T08:06:42Z"
+  },
+  {
+    "name": "Queen",
+    "url": "http://twitter.com/search?q=Queen",
+    "promoted_content": null,
+    "query": "Queen",
+    "tweet_volume": 311407,
+    "dateTime": "2022-02-04T08:06:42.286Z",
+    "location": {
+      "name": "Ukraine",
+      "woeid": 23424976
+    },
+    "created_at": "2022-01-05T12:00:40Z",
+    "as_of": "2022-02-04T08:06:42Z"
+  },
+  {
+    "name": "днепре",
+    "url": "http://twitter.com/search?q=%D0%B4%D0%BD%D0%B5%D0%BF%D1%80%D0%B5",
+    "promoted_content": null,
+    "query": "%D0%B4%D0%BD%D0%B5%D0%BF%D1%80%D0%B5",
+    "tweet_volume": null,
+    "dateTime": "2022-02-04T08:06:42.286Z",
+    "location": {
+      "name": "Ukraine",
+      "woeid": 23424976
+    },
+    "created_at": "2022-01-05T12:00:40Z",
+    "as_of": "2022-02-04T08:06:42Z"
+  },
+  {
+    "name": "Solana",
+    "url": "http://twitter.com/search?q=Solana",
+    "promoted_content": null,
+    "query": "Solana",
+    "tweet_volume": 265019,
+    "dateTime": "2022-02-04T08:06:42.286Z",
+    "location": {
+      "name": "Ukraine",
+      "woeid": 23424976
+    },
+    "created_at": "2022-01-05T12:00:40Z",
+    "as_of": "2022-02-04T08:06:42Z"
   }
 ]
